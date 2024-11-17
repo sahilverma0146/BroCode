@@ -23,9 +23,7 @@ export default function ContactUs() {
         <h2 className="text-balance text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
           WE'RE A CALL AWAY SAY HI!!
         </h2>
-        <p className="mt-2 text-lg/8 text-gray-600">
-          Aute magna irure deserunt veniam aliqua magna enim voluptate.
-        </p>
+        
       </div>
       <form
         action="#"

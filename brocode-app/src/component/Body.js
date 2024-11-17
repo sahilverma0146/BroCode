@@ -8,8 +8,8 @@ function Body() {
               Empower Your Digital Presence With Us!!!
             </h1>
             <p className="mt-4 text-xl text-gray-500">
-              At Codenosye , We don't just build websites , We craft Digital Experiences 
-              Tailored to Evaluate Your Brand . 
+              At Codenosye , We don't just build websites , We craft Digital
+              Experiences Tailored to Evaluate Your Brand .
             </p>
           </div>
           <div>
@@ -26,14 +26,14 @@ function Body() {
                         <img
                           alt=""
                           src="https://imgs.search.brave.com/BtIHxnzK_wStMgg54yZ8yP6TpL1MBDTUaoJt983ShqU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbHNpbGsu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzExL3dlYi1k/ZXNpZ24tdG9vbHMt/aGVyby5qcGc"
-                          className="size-full object-cover"
+                          className="size-full object-cover transform transition duration-300 ease-in-out hover:scale-110"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
                           src="https://imgs.search.brave.com/6xvxQlAIEDuVwLJ3MduNgReoM9p4--hgjXFT2X1-m6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aHVic3BvdC5jb20v/aHViZnMvY29kaW5n/LnBuZw"
-                          className="size-full object-cover"
+                          className="size-full object-cover transform transition duration-300 ease-in-out hover:scale-110"
                         />
                       </div>
                     </div>
@@ -42,21 +42,21 @@ function Body() {
                         <img
                           alt=""
                           src="https://imgs.search.brave.com/BEYFRmCyjUsasqtN41Ul3ZsYsEMkGIYCBps2iwKWe4k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYWdl/bmVzdC5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMTAv/d2hhdC1pcy13ZWIt/ZGV2ZWxvcG1lbnQt/dG9vbHMuanBn"
-                          className="size-full object-cover"
+                          className="size-full object-cover "
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
                           src="https://imgs.search.brave.com/hYFBbnpSzS9b2AS5Svg_sowoSCl_H6lWd02_Knl1kw8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VyZmVyc2Vv/LmFydC9iMTQ0YWFl/ZS03NmRiLTRkM2Ut/Yjg3Ny00MmVhYzgw/NmE2ZWMucG5n"
-                          className="size-full object-cover"
+                          className="size-full object-cover transform transition duration-300 ease-in-out hover:scale-110"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
                           src="https://tailwindui.com/plus/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
-                          className="size-full object-cover"
+                          className="size-full object-cover transform transition duration-300 ease-in-out hover:scale-110"
                         />
                       </div>
                     </div>
@@ -65,14 +65,14 @@ function Body() {
                         <img
                           alt=""
                           src="https://imgs.search.brave.com/yjykmZ99CBokZYnNbeHCJMiXkfUMiVVBCVGhbrZsoFk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aG9zdGluZ2VyLmNv/bS90dXRvcmlhbHMv/d3AtY29udGVudC91/cGxvYWRzL3NpdGVz/LzIvMjAyMi8wOS9G/bHV0dGVyLWFuLW9w/ZW4tc291cmNlLVVJ/LXNvZnR3YXJlLWRl/dmVsb3BtZW50LWtp/dC1jcmVhdGVkLWJ5/LUdvb2dsZS0xMDI0/eDUyNy53ZWJw"
-                          className="size-full object-cover"
+                          className="size-full object-cover transform transition duration-300 ease-in-out hover:scale-110"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
                           src="https://imgs.search.brave.com/tGFHBLQCK3hCTCPaDA8VRgfBWYGQabLDHPbzTIzK7Jo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aG9zdGluZ2VyLmNv/bS90dXRvcmlhbHMv/d3AtY29udGVudC91/cGxvYWRzL3NpdGVz/LzIvMjAyMi8wOS9X/ZWItZGV2ZWxvcG1l/bnQtdG9vbC1Ta2V0/Y2gtMTAyNHg2NDQu/d2VicA"
-                          className="size-full object-cover"
+                          className="size-full object-cover transform transition duration-300 ease-in-out hover:scale-110"
                         />
                       </div>
                     </div>

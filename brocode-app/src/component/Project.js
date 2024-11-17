@@ -79,7 +79,7 @@ export default function Project() {
                 <img
                   alt={product.imageAlt}
                   src={product.imageSrc}
-                  className="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]"
+                  className="aspect-square  transform transition duration-300 ease-in-out hover:scale-110 w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]"
                 />
                 <h3 className="mt-4 text-center text-xl text-gray-500">{product.name}</h3>
                 <p className="mt-1 text-lg font-medium text-gray-900">
