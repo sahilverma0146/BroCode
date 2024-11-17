@@ -2,7 +2,7 @@ const products = [
   {
     id: 1,
     name: "Brands Websites Redesign",
-    href: "#",
+    
 
     imageSrc:
       "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-01.jpg",
@@ -12,8 +12,7 @@ const products = [
   {
     id: 2,
     name: "Event Landing Page",
-    href: "#",
-
+   
     imageSrc:
       "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg",
     imageAlt:
@@ -22,8 +21,7 @@ const products = [
   {
     id: 3,
     name: "Email Marketinng Campaign",
-    href: "#",
-
+   
     imageSrc:
       "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg",
     imageAlt:
@@ -32,7 +30,7 @@ const products = [
   {
     id: 4,
     name: "Corporate Website",
-    href: "#",
+   
 
     imageSrc:
       "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-04.jpg",
@@ -42,7 +40,7 @@ const products = [
   {
     id: 4,
     name: "Brands Websites Redesign",
-    href: "#",
+  
 
     imageSrc:
       "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-01.jpg",
@@ -52,7 +50,7 @@ const products = [
   {
     id: 5,
     name: "Brands Websites Redesign",
-    href: "#",
+  
 
     imageSrc:
       "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-01.jpg",
@@ -75,7 +73,7 @@ export default function Project() {
 
           <div className="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
             {products.map((product) => (
-              <a key={product.id} href={product.href} className="group">
+              <a key={product.id} className="group">
                 <img
                   alt={product.imageAlt}
                   src={product.imageSrc}
@@ -85,7 +83,7 @@ export default function Project() {
                 <p className="mt-1 text-lg font-medium text-gray-900">
                   {product.price}
                 </p>
-              </a>
+              // </a>
             ))}
           </div>
         </div>
